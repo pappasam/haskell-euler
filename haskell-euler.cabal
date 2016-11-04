@@ -23,6 +23,7 @@ library
                      , P004
                      , P005
                      , P006
+                     , P007
   build-depends:       base >= 4.7 && < 5
                      , primes >= 0.2.1.0
   default-language:    Haskell2010
